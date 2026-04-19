@@ -10,6 +10,9 @@ The solution includes:
 - Azure SQL Database
 - Azure Key Vault
 
+## Architecture Diagram
+![Architecture](mermaid-diagram.png)
+
 ## Components
 - VM1 and VM2 host web applications
 - Load Balancer distributes incoming traffic
